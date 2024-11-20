@@ -82,5 +82,5 @@ https://data.world/raghu543/ipl-data-till-2017
 
 
 ## 🚀 About Me
-Hello! 👋 My name is Krish Shah, and I am a passionate Data Analyst and aspiring Data Engineer with a strong foundation in data-driven problem-solving and technical innovation. With a keen interest in leveraging technology to extract meaningful insights from complex datasets, I specialize in creating robust, scalable solutions for data analysis and visualization.
+Hello! 👋 My name is Krish Shah, and I am a passionate Data Analyst and aspiring Data Engineer with a strong foundation in data-driven problem-solving and technical innovation. With a keen interest in leveraging technology to extract meaningful insights from complex datasets, I specialize in creating robust, scalable solutions for data analysis and visualization. I am driven by the intersection of data science, engineering, and analytics, aiming to create impactful outcomes in the world of technology.
 
