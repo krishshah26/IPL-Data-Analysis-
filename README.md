@@ -55,15 +55,19 @@ https://data.world/raghu543/ipl-data-till-2017
 - Configure Databricks workspace.
 - Set up the Amazon S3 bucket for data storage.
 - Upload IPL datasets to the bucket.
+
 **Data Ingestion:**
 - Load datasets into Spark DataFrames.
 - Define schemas using PySpark types like StructType and StructField.
+
 **Data Transformation:**
 - Clean and preprocess the data (e.g., casting data types, handling nulls).
 - Perform feature engineering, such as calculating total and average runs.
+
 **Analysis:**
 - Convert DataFrames into SQL tables.
 - Execute queries to derive insights, e.g., top-scoring batsmen, toss impact, and dismissal patterns.
+
 **Visualization:**
 - Create visualizations using Python libraries.
 - Graph results like toss-winning performance and dismissal types.
